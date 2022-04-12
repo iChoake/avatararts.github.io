@@ -1,11 +1,16 @@
     @import url(https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap);
     .decode-text {
         width: 100%;
-        font-size: 50px;
+        color: white;
+        text-shadow: 2px 2px 4px #000000;
+        font-size: 150px;
         text-align: center;
         font-variant: small-caps;
     }
-    
+   /* h1 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+} */
     .space {
         display: inline-block;
         width: 10px;
